@@ -1,0 +1,9 @@
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.deps.json
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\bin\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.dll
+C:\Users\nabang\Downloads\Thứ 5 22-04\MISA.CukCuk.Core\obj\Debug\netcoreapp3.1\MISA.CukCuk.Core.pdb

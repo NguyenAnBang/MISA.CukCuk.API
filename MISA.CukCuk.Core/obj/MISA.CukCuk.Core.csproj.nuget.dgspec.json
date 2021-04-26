@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Đại học\\Học kì 2 2020-2021\\Web - MISA\\Buổi 12 22-04\\Thứ 5 22-04\\MISA.CukCuk.Core\\MISA.CukCuk.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\Đại học\\Học kì 2 2020-2021\\Web - MISA\\Buổi 12 22-04\\Thứ 5 22-04\\MISA.CukCuk.Core\\MISA.CukCuk.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đại học\\Học kì 2 2020-2021\\Web - MISA\\Buổi 12 22-04\\Thứ 5 22-04\\MISA.CukCuk.Core\\MISA.CukCuk.Core.csproj",
+        "projectName": "MISA.CukCuk.Core",
+        "projectPath": "D:\\Đại học\\Học kì 2 2020-2021\\Web - MISA\\Buổi 12 22-04\\Thứ 5 22-04\\MISA.CukCuk.Core\\MISA.CukCuk.Core.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Đại học\\Học kì 2 2020-2021\\Web - MISA\\Buổi 12 22-04\\Thứ 5 22-04\\MISA.CukCuk.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
